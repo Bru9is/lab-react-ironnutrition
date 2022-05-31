@@ -1,0 +1,8 @@
+.todayFood{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 80%;
+    justify-content: space-between;
+    margin: 20px;
+}
